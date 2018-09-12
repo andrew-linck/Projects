@@ -1,0 +1,16 @@
+Quickest way to learn a skill. Do it. Jump in projects quickly. Learning Terminal Skills. Getting really good with terminal so I only have to use it and can accelerate my programming speed.
+
+Web App will be built using angular.
+Skills to learn.
+
+PHP:
+
+Java: 
+
+Javascript:
+
+Html:
+
+Css:
+
+Write a program that displays a cat and when you click on it it meows

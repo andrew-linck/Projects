@@ -1,0 +1,11 @@
+Application that shows a picture of a cat and meows when you click on it
+
+Requirements
+
+1. Graphics Window - (x) 
+2. Meow Sound - (x)  
+3. Clicked Variable - (x)
+4. Cat Picture - (x) 
+
+Struggles. Not realizing how hard it would be to remove components that aren't normally removed.
+Getting it exactly what the vision is without wavering.	
